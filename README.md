@@ -38,33 +38,24 @@ real-time-object-detection/
 
 ## 💻 How to Run
 
-### 1. Clone this repository
+1. **Clone this repository**
+    ```bash
+    git clone https://github.com/Aditi14699/real-time-object-detection.git
+    cd real-time-object-detection
 
-```bash
-git clone https://github.com/Aditi14699/real-time-object-detection.git
-cd real-time-object-detection
+2. **Set up virtual environment**
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate        # On Windows
+    source venv/bin/activate     # On Mac/Linux
 
----
+3. **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
 
-### 2. Set up virtual environment
-
-```bash
-python -m venv venv
-venv\Scripts\activate        # On Windows
-source venv/bin/activate     # On Mac/Linux
-
----
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-
----
-
-### 4. Run the Streamlit app
-```bash
-streamlit run app.py
+4. **Run the Streamlit app**
+    ```bash
+    streamlit run app.py
 
 ---
 
