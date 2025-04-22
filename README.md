@@ -92,6 +92,5 @@ real-time-object-detection/
 ---
 
 🧑‍💻 Author
-Aditi
-Data Science & ML Enthusiast
-LinkedIn: https://www.linkedin.com/in/aditi-patil-52992115b/
+- Aditi
+- LinkedIn: https://www.linkedin.com/in/aditi-patil-52992115b/
