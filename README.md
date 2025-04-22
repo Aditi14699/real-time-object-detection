@@ -60,34 +60,34 @@ real-time-object-detection/
 ---
 
 📸 Features
--Real-time webcam feed
--Object detection and bounding boxes
--Streamlit interface for easy interaction
--Detects common objects like:
-    -Person
-    -Dog
-    -Cat
-    -Car
-    -Chair
-    -Bottle
-    -And more...
+- Real-time webcam feed
+- Object detection and bounding boxes
+- Streamlit interface for easy interaction
+- Detects common objects like:
+    - Person
+    - Dog
+    - Cat
+    - Car
+    - Chair
+    - Bottle
+    - And more...
 
 ---
 
 🔮 Future Improvements
--Add YOLOv8 or Faster R-CNN for improved accuracy
--Option to upload and analyze video/image files
--Display detection confidence scores
--Track objects across frames using object tracking
--Add option to select/deselect classes to detect
--Deploy app using Streamlit Cloud or Hugging Face Spaces
+- Add YOLOv8 or Faster R-CNN for improved accuracy
+- Option to upload and analyze video/image files
+- Display detection confidence scores
+- Track objects across frames using object tracking
+- Add option to select/deselect classes to detect
+- Deploy app using Streamlit Cloud or Hugging Face Spaces
 
 ---
 
 📝 Acknowledgements
--OpenCV
--Streamlit
--MobileNet SSD Model (Caffe)
+- OpenCV
+- Streamlit
+- MobileNet SSD Model (Caffe)
 
 ---
 
